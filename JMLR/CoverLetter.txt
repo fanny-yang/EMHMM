@@ -1,0 +1,6 @@
+Dear Editor, 
+
+Please consider our submission “Statistical and Computational Guarantees for the Baum-Welch algorithm” for publication in the Journal of Machine Learning Research. This submission is an extension of the earlier work presented with the same title by the same set of authors at the Allerton Conference, 2015. All co-authors are aware of the current submission and consent to its review by JMLR. We suggest Francis Bach and Sujay Sanghavi as potential action editors. One or more co-authors have conflicts of interest with the following action editors: Bin Yu, Ben Recht.
+
+Thanks and best regards,
+Fanny Yang

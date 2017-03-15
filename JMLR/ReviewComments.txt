@@ -1,0 +1,60 @@
+Minor comments:
+1. In comparison with previous mixture of Gaussian results, the paper mentioned that the constant distance separation is much weaker than the distance-based clustering algorithms that focus on correctly labeling examples. There is only a \sqrt{\log n} gap and there are results that can deal with constant separation, so I wouldn't say it's "much" weaker. The paper also claims that it is incomparable to the non-degeneracy condition but in fact the separation condition for two Gaussians is strictly stronger than non-degeneracy.
+
+I'm quoting the non-degeneracy definition of Hsu "Learning Mixtures of Spherical Gaussians):
+We don't need to span the entire space. We also don't need separation of two Gaussians in the sense of $\|\mu^*\|_2 \geq C$ or $\sqrt{\log n}$ but the quantity that matters is the SNR. 
+
+which results deal with constant separation?
+
+2. Page 2, subsectionRelated work and our contributions - y
+3. Page 8, after Section 3.1, Balakrishnan et al. appeared twice -y
+4. Page 10, "assumption of strong concavity" is mentioned, maybe should point out that this assumption can be proved in the special case.
+5. Page 11, definition of FOS. Would be good to emphasize this is very different from the "smoothness" condition that's often assumed in optimization. This could be really confusing because L is also often used for smoothness and the equation also looks similar (except the change is after the |). This is especially bad because smoothness is always at least as large as the strong-concavity parameter \lambda, but here L is actually required to be smaller than \lambda.
+6. Page 14, Section 4.2, end of second paragraph, sentence not finished -y
+7. Page 19, might be good to explain why we don't need to union bound over all steps here.
+
+@5., 7.: the intuitive reasoning was indeed not very clear and thus the non-necessity of uniform FOS was not clear. We have added intuitive explanations to the section when we define the FOS conditions.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+At the same time, I have the following concerns with the paper:
+1. The traditional Baum-Welch algorithm, if I understand correctly, corresponds to the setting k=0 in the paper. This is crucial in making the algorithm practical. On the other hand, the results in the paper correspond to the setting where k might be very large. In that case, it is not clear if the resulting estimation steps in the algorithm are tractable. Is there an algorithm (say such as belief propagation) which can be used to compute the iterates when k is large?
+
+Thanks for the comment. k is only needed for the proof and is set to be log n there. Baum welch itself doesn't need truncation (though could potentially only need to condition on in the order of k = log n past and future observations). It was indeed not very clear though that k had to be chosen in a particular interval which was in the order of log n - neither could it be much larger than a constant times n nor smaller than log n (see Lemmas 1,2). 
+
+
+2. The conditions assumed in the paper are quite strong. In order for the results to be applicable, the condition number quantity, \kappa, has to be at least less than 1 and Theorem 1 (b) imposes an even more stringent condition on \kappa. It is not clear to me how many HMMs of practical interest fall under this category.
+
+It is quite a standard assumption that strict contractivity with a parameter less than 1 is given for convergence of gradient descent methods. $\kappa$ is not a condition number but the contractivity parameter (condition number in the classical sense are always bigger than 1). Note that whenever the SNR is large enough, \kappa easily satisfies these constraints. The Corollaries 1 and 2 provide some more intuition on which practical HMMs could fall into that category.
+
+
+Minor comments:
+1. It would be nice to derive equation (9) for better readability.
+
+added a line for clarification
+
+2. On page 18, in the proof of Theorem 1 (b), it is hard to follow why the second inequality, involving ||\overline{M}^{\mu,k}(\tilde{\theta}^t) - \overline{M}^{\mu,k}(\mu^*,\tilde{\beta}^t)||_2, is true. Eventually I see that it follows from a claim towards the end of the proof of Theorem 1 (i.e., proof of equation (27)). 
+
+In fact it does follow immediately from equation (27) (note the definition of \kappa). We first change \tilde{\mu} to \mu^* and use (27)(which gives us the first term in the subsequent line), and then hold \tilde{\mu} and change \tilde{\beta} to \beta^* and use (27) again to get the second term. But indeed, it might have been confusing to state the FOS condition as the reason - modified in the new version.
+
+3. From the proof of equation (27), it seems that (27) is true even if we replace \theta^* with any arbitrary \theta. Then this would mean that \overline{M}^{\mu,k} is contractive for any pair of \theta's. This means that there is a unique stationary point for this operator. This contradicts the authors' statements in the simulation section that different initializations converge to different stationary points. Could the authors please elaborate on this?
+
+contractivity is only valid with respect to the true theta^* in (27) because the L_{\beta}, L_{\mu} - FOS condition is only true at $\theta*$ (which we did not emphasize explicitly in the proof, now corrected, thanks for the pointer). However even if we could show contractivity in general, the analysis for the theorems only applies to population iterates not sample iterates (which we simulate) - so that even if the FOS condition held for general \theta and there was one fix point, it would not contradict our simulations.
+
+4. This is a style issue but given that the proof of Corollary 1 is over 5 pages, I would probably not call it a corollary. This also connects back to my earlier concerns that it might be extremely difficult to prove authors' assumptions for HMMs of practical interest.
+
+This is a fair point. But we won't change it.
+
+
+Typos:
+1. Section 4.2, 2nd paragraph end: "We use the notation"
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+
+
+p2 subsectionRelated work missing ‘\’
+p8 Section 3.1, ref to Balakrishnan et al. repeated.
+
+Extremely minor:
+consider i.i.d.\ to adjust for the extra spacing.
+i-th and i—th (e.g., page 16)     
