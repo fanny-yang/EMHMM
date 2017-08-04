@@ -567,7 +567,7 @@
 \newcommand{\ecar}{\end{carlist}}
 
 \newcommand{\COVNUM}{\ensuremath{T}}
-
+ 
 \newcommand{\BIGSUP}{\sup_{ \substack{\|u\|_2=1 \\ \|v\|_2 = 1}} }
 
 
@@ -577,7 +577,8 @@
 \newcommand{\myciteyear}[1]{(\citeyear{#1})}
 %% % Heading arguments are {volume}{year}{pages}{submitted}{published}{author-full-names}
 
-\jmlrheading{17}{2017}{1-53}{3/2016}{2017}{Fanny Yang, Sivaraman Balakrishnan and Martin J. Wainwright}
+\jmlrheading{18}{2017}{1-53}{3/16}{7/17}{16-093}{Fanny Yang, Sivaraman
+Balakrishnan and Martin J. Wainwright}
 
 %% % Short headings should be running head and authors last names
 
@@ -2849,9 +2850,9 @@ the distance between the Baum-Welch iterates and the true parameter.
 Under suitable regularity conditions, our theory guarantees that the
 iterates converge to an $\minimaxrad$-ball of the true parameter,
 where $\minimaxrad$ represents a form of statistical error.  It
-is important to note that our theory does not guarnatee convergence to
-the MLE itself, but rather to this ball that contains both the MLE and
-the true parameter.  When applied to the Gaussian mixture HMM, we
+is important to note that our theory does not guarantee convergence to
+the MLE itself, but rather to a ball that contains the true parameter,
+and asymptotically the MLE as well.  When applied to the Gaussian mixture HMM, we
 proved that the Baum-Welch algorithm achieves estimation error that is minimax
 optimal up to logarithmic factors.  To the best of our knowledge,
 these are the first rigorous guarantees for the Baum-Welch algorithm
@@ -3294,7 +3295,7 @@ where $\{ \Xtil_{i; 2 \kdim}\}_{i\in \NN}$ are a collection of
 i.i.d. sequences of length $2 \kdim$ drawn from the same Markov chain
 and $\{\Xtil_{i}\}_{i\in\NN}$ a collection of i.i.d. variables drawn
 from the same stationary distribution. In our notation, $\{\Xtil_{i;2k}\}_{i\in \NN}$ 
-under $\mprob$ are distributed identically distributed as $\{X_{i;2k} \}_{i\in\NN}$ 
+under $\mprob$ are identically distributed as $\{X_{i;2k} \}_{i\in\NN}$ 
 under $\mprob_0$.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Lem block %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{lems}
@@ -3345,7 +3346,7 @@ from which we find that
 \epsilon\}\\
 &\qquad \cap \{ \sup_{g\in\mathcal{F}}\| g^{R^j}(X) - \EE g(X)\|_2 \leq \epsilon\} \big)\\
 % 
-&\stackrel{\mathrm{(i)}}{\geq} (1 - 4 \kdim) \: \mprob(
+&\stackrel{\mathrm{(i)}}{\geq} 1 - 4 \kdim \: \mprob(
 \sup_{g\in\mathcal{F}}\| g^{H^1}(X) - \EE g(X)\|_2 \geq \epsilon),
 \end{align*}
 where $\mathrm{(i)}$ follows using stationarity of the underlying

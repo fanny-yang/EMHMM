@@ -1,0 +1,214 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Balakrishnan et~al.(2014)Balakrishnan, Wainwright, and Yu]{BalWaiYu14}
+S.~Balakrishnan, M.~J. Wainwright, and B.~Yu.
+\newblock Statistical guarantees for the {EM} algorithm: From population to
+  sample-based analysis.
+\newblock \emph{arXiv preprint arXiv:1408.2156}, 2014.
+
+\bibitem[Baum and Petrie(1966)]{baum1966}
+L.E. Baum and T.~Petrie.
+\newblock Statistical inference for probabilistic functions of finite state
+  {M}arkov chains.
+\newblock \emph{The Annals of Mathematical Statistics}, pages 1554--1563, 1966.
+
+\bibitem[Baum et~al.(1970)Baum, Petrie, Soules, and Weiss]{Baum70}
+L.E. Baum, T.~Petrie, G.~Soules, and N.~Weiss.
+\newblock A maximization technique occurring in the statistical analysis of
+  probabilistic functions of {M}arkov chains.
+\newblock \emph{The Annals of Mathematical Statistics}, pages 164--171, 1970.
+
+\bibitem[Belkin and Sinha(2010)]{belkin}
+M.~Belkin and K.~Sinha.
+\newblock Toward learning {G}aussian mixtures with arbitrary separation.
+\newblock In \emph{{COLT} 2010 - The 23rd Conference on Learning Theory, Haifa,
+  Israel, June 27-29, 2010}, pages 407--419, 2010.
+
+\bibitem[Bickel et~al.(1998)Bickel, Ritov, and Ryd{\'e}n]{bickel1998}
+P.J. Bickel, Y.~Ritov, and T.~Ryd{\'e}n.
+\newblock Asymptotic normality of the maximum-likelihood estimator for general
+  {H}idden {M}arkov {M}odels.
+\newblock \emph{The Annals of Statistics}, 26\penalty0 (4):\penalty0
+  1614--1635, 08 1998.
+\newblock \doi{10.1214/aos/1024691255}.
+
+\bibitem[Capp{\'e} et~al.(2004)Capp{\'e}, Moulines, and
+  Ryd{\'e}n]{Moulines_HMM}
+O.~Capp{\'e}, E.~Moulines, and T.~Ryd{\'e}n.
+\newblock {H}idden {M}arkov {M}odels, 2004.
+
+\bibitem[Chaganty and Liang(2013)]{Chaganty13}
+A.T. Chaganty and P.~Liang.
+\newblock Spectral experts for estimating mixtures of linear regressions.
+\newblock \emph{arXiv preprint arXiv:1306.3729}, 2013.
+
+\bibitem[Dasgupta(1999)]{dasgupta}
+S.~Dasgupta.
+\newblock Learning mixtures of {G}aussians.
+\newblock In \emph{40th Annual Symposium on Foundations of Computer Science,
+  {FOCS} '99, 17-18 October, 1999, New York, NY, {USA}}, pages 634--644, 1999.
+
+\bibitem[Dempster et~al.(1977)Dempster, Laird, and Rubin]{Dempster77}
+A.P. Dempster, N.M. Laird, and D.B. Rubin.
+\newblock Maximum likelihood from incomplete data via the {EM} algorithm.
+\newblock \emph{J. R. Stat. Soc. B}, pages 1--38, 1977.
+
+\bibitem[Durbin(1998)]{durbinbook}
+R.~Durbin.
+\newblock \emph{Biological Sequence Analysis: Probabilistic Models of Proteins
+  and Nucleic Acids}.
+\newblock Cambridge University Press, 1998.
+\newblock ISBN 9780521620413.
+\newblock URL \url{https://books.google.co.in/books?id=R5P2GlJvigQC}.
+
+\bibitem[Elliott et~al.(1995)Elliott, Aggoun, and Moore]{controlbook}
+R.J. Elliott, L.~Aggoun, and J.B. Moore.
+\newblock \emph{{H}idden {M}arkov {M}odels: Estimation and Control}.
+\newblock Applications of Mathematics. Springer, 1995.
+\newblock ISBN 9780387943640.
+\newblock URL \url{https://books.google.co.in/books?id=aR6-ASc\_efQC}.
+
+\bibitem[Hsu and Kakade(2013)]{hsumog}
+D.~Hsu and S.M. Kakade.
+\newblock Learning mixtures of spherical {G}aussians: Moment methods and
+  spectral decompositions.
+\newblock In \emph{Proceedings of the 4th Conference on Innovations in
+  Theoretical Computer Science}, ITCS '13, pages 11--20, New York, NY, USA,
+  2013. ACM.
+\newblock ISBN 978-1-4503-1859-4.
+\newblock \doi{10.1145/2422436.2422439}.
+\newblock URL \url{http://doi.acm.org/10.1145/2422436.2422439}.
+
+\bibitem[Hsu et~al.(2012)Hsu, Kakade, and Zhang]{Hsu12}
+D.~Hsu, S.~Kakade, and T.~Zhang.
+\newblock A spectral algorithm for learning {H}idden {M}arkov {M}odels.
+\newblock \emph{J. Comput. Syst. Sci.}, 78\penalty0 (5):\penalty0 1460--1480,
+  2012.
+
+\bibitem[Kim and Nelson(1999)]{econbook}
+C.J. Kim and C.R. Nelson.
+\newblock \emph{State-space Models with Regime Switching: Classical and
+  Gibbs-sampling Approaches with Applications}.
+\newblock MIT Press, 1999.
+\newblock ISBN 9780262112383.
+\newblock URL \url{https://books.google.co.in/books?id=eQFsQgAACAAJ}.
+
+\bibitem[Kontorovich et~al.(2013)Kontorovich, Nadler, and Weiss]{Kontorovich13}
+L.~A. Kontorovich, B.~Nadler, and R.~Weiss.
+\newblock On learning parametric-output {HMM}s.
+\newblock In \emph{Proc. 30th International Conference Machine Learning}, pages
+  702--710, June 2013.
+
+\bibitem[Kschischang et~al.(2001)Kschischang, Frey, and Loeliger]{Frank01}
+F.R. Kschischang, B.J. Frey, and H.-A. Loeliger.
+\newblock Factor graphs and the sum-product algorithm.
+\newblock \emph{IEEE Trans. Info. Theory}, 47\penalty0 (2):\penalty0 498--519,
+  February 2001.
+
+\bibitem[Ledoux(1997)]{Led96}
+Michel Ledoux.
+\newblock On {T}alagrand's deviation inequalities for product measures.
+\newblock \emph{ESAIM: Probability and statistics}, 1:\penalty0 63--87, 1997.
+
+\bibitem[Ledoux and Talagrand(2013)]{LedTalBanach}
+Michel Ledoux and Michel Talagrand.
+\newblock \emph{{P}robability in {B}anach {S}paces: {I}soperimetry and
+  {P}rocesses}, volume~23.
+\newblock Springer Science \& Business Media, 2013.
+
+\bibitem[Moitra and Valiant(2010)]{moitra}
+A.~Moitra and G.~Valiant.
+\newblock Settling the polynomial learnability of mixtures of {G}aussians.
+\newblock In \emph{Proceedings of the 2010 IEEE 51st Annual Symposium on
+  Foundations of Computer Science}, FOCS '10, pages 93--102, Washington, DC,
+  USA, 2010. IEEE Computer Society.
+\newblock ISBN 978-0-7695-4244-7.
+\newblock \doi{10.1109/FOCS.2010.15}.
+\newblock URL \url{http://dx.doi.org/10.1109/FOCS.2010.15}.
+
+\bibitem[Mossel and Roch(2006)]{mossel2006}
+E.~Mossel and S.~Roch.
+\newblock Learning nonsingular phylogenies and {H}idden {M}arkov {M}odels.
+\newblock \emph{The Annals of Applied Probability}, 16\penalty0 (2):\penalty0
+  583--614, 05 2006.
+
+\bibitem[Nobel and Dembo(1993)]{NobDem93}
+A.~Nobel and A.~Dembo.
+\newblock A note on uniform laws of averages for dependent processes.
+\newblock \emph{Statistics \& Probability Letters}, 17\penalty0 (3):\penalty0
+  169--172, 1993.
+
+\bibitem[Rabiner and Juang(1993)]{rabinerbook}
+L.R. Rabiner and B.H. Juang.
+\newblock \emph{Fundamentals of Speech Recognition}.
+\newblock Pearson Education Signal Processing Series. Pearson Education, 1993.
+\newblock ISBN 9788129701381.
+\newblock URL \url{https://books.google.co.in/books?id=hoVLAAAACAAJ}.
+
+\bibitem[Siddiqi et~al.(2010)Siddiqi, Boots, and Gordon]{Siddiqi10}
+S.~M. Siddiqi, B.~Boots, and G.~J. Gordon.
+\newblock Reduced-rank {H}idden {M}arkov {M}odels.
+\newblock In \emph{Proc. 13th International Conference on Artificial
+  Intelligence and Statistics}, 2010.
+
+\bibitem[Terwijn(2002)]{cryptohmm}
+S.~Terwijn.
+\newblock On the learnability of {H}idden {M}arkov {M}odels.
+\newblock In \emph{Proceedings of the 6th International Colloquium on
+  Grammatical Inference: Algorithms and Applications}, ICGI '02, pages
+  261--268, London, UK, UK, 2002. Springer-Verlag.
+
+\bibitem[van~der Vaart and Wellner(1996)]{vdVWell}
+Aad~W. van~der Vaart and Jon~A. Wellner.
+\newblock \emph{Weak Convergence and Empirical Processes}.
+\newblock Springer, 1996.
+
+\bibitem[van Handel(2008)]{vanHandel_HMM}
+R.~van Handel.
+\newblock {H}idden {M}arkov {M}odels.
+\newblock \emph{Unpublished lecture notes}, 2008.
+
+\bibitem[Vempala and Wang(2004)]{vempala}
+S.~Vempala and G.~Wang.
+\newblock A spectral algorithm for learning mixture models.
+\newblock \emph{J. Comput. Syst. Sci.}, 68\penalty0 (4):\penalty0 841--860,
+  June 2004.
+\newblock ISSN 0022-0000.
+\newblock \doi{10.1016/j.jcss.2003.11.008}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.jcss.2003.11.008}.
+
+\bibitem[Wainwright and Jordan(2008)]{WaiJor08}
+M.~J. Wainwright and M.~I. Jordan.
+\newblock Graphical models, exponential families and variational inference.
+\newblock \emph{Foundations and Trends in Machine Learning}, 1\penalty0
+  (1--2):\penalty0 1---305, December 2008.
+
+\bibitem[Wang et~al.(2014)Wang, Gu, Ning, and Liu]{WangLiu14}
+Zhaoran Wang, Quanquan Gu, Yang Ning, and Han Liu.
+\newblock High dimensional expectation-maximization algorithm: Statistical
+  optimization and asymptotic normality.
+\newblock \emph{arXiv preprint arXiv:1412.8729}, 2014.
+
+\bibitem[Wu(1983)]{Wu83}
+J.~C. Wu.
+\newblock On the convergence properties of the {EM} algorithm.
+\newblock \emph{The Annals of Statistics}, pages 95--103, 1983.
+
+\bibitem[Yi and Caramanis(2015)]{YiCar15}
+Xinyang Yi and Constantine Caramanis.
+\newblock Regularized {EM} algorithms: A unified framework and provable
+  statistical guarantees.
+\newblock \emph{arXiv preprint arXiv:1511.08551}, 2015.
+
+\bibitem[Yu(1994)]{Yu94}
+B.~Yu.
+\newblock Rates of convergence for empirical processes of stationary mixing
+  sequences.
+\newblock \emph{The Annals of Probability}, pages 94--116, 1994.
+
+\end{thebibliography}

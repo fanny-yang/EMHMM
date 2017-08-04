@@ -1,0 +1,38 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Related work and our contributions}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Background and problem set-up}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Standard HMM notation and assumptions}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Baum-Welch updates for HMMs}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Main results}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Existence of population Lg-function}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Analysis of updates based on Lg}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Sample-based results}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Concrete results for the Gaussian output HMM}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Explicit form of Baum-Welch updates}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Population and sample guarantees}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Simulations}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{Proofs}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Proof of Theorem 1}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Proof of Theorem 2}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.3}{Proof of Corollary 1}{section.5}% 17
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Establishing strong concavity}{subsection.5.3}% 18
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Separate FOS conditions}{subsection.5.3}% 19
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Proof of inequality \(21a\)}{subsection.5.3}% 20
+\BOOKMARK [3][-]{subsubsection.5.3.4}{Proof of inequality \(21b\)}{subsection.5.3}% 21
+\BOOKMARK [3][-]{subsubsection.5.3.5}{Proof of inequality \(22a\)}{subsection.5.3}% 22
+\BOOKMARK [3][-]{subsubsection.5.3.6}{Proof of inequality \(22b\)}{subsection.5.3}% 23
+\BOOKMARK [2][-]{subsection.5.4}{Proof of Corollary 2}{section.5}% 24
+\BOOKMARK [1][-]{section.6}{Discussion}{}% 25
+\BOOKMARK [1][-]{section.1}{Proof of Proposition 1}{}% 26
+\BOOKMARK [1][-]{section.2}{Technical details for Corollary 1}{}% 27
+\BOOKMARK [1][-]{section.3}{Technical details for Corollary 2}{}% 28
+\BOOKMARK [2][-]{subsection.3.1}{Proof of Lemma 1}{section.3}% 29
+\BOOKMARK [2][-]{subsection.3.2}{Proof of Lemma 2}{section.3}% 30
+\BOOKMARK [2][-]{subsection.3.3}{Proofs of technical lemmas}{section.3}% 31
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Proof of Lemma 8}{subsection.3.3}% 32
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Proof of Lemma 9}{subsection.3.3}% 33
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Proof of Lemma 10}{subsection.3.3}% 34
+\BOOKMARK [1][-]{section.4}{Mixing related results}{}% 35
+\BOOKMARK [2][-]{subsection.4.1}{Consequences of mixing}{section.4}% 36
+\BOOKMARK [2][-]{subsection.4.2}{Proof of Lemma 3}{section.4}% 37
+\BOOKMARK [2][-]{subsection.4.3}{Proof of Lemma 6}{section.4}% 38

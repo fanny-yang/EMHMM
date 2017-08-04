@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.8.4)  15 MAR 2017 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.8.4)  17 APR 2017 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\nonstopmode\input A_RevJMLR_HMM.tex
-(./A_RevJMLR_HMM.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+**\nonstopmode\input C_RevJMLR_HMM.tex
+(./C_RevJMLR_HMM.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
@@ -831,23 +831,23 @@ Package caption Info: subfigure package is loaded.
 \widebarargwidth=\skip71
 \widebarargheight=\skip72
 \widebarargdepth=\skip73
- (./A_RevJMLR_HMM.aux)
-\openout1 = `A_RevJMLR_HMM.aux'.
+ (./C_RevJMLR_HMM.aux)
+\openout1 = `C_RevJMLR_HMM.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 586.
-LaTeX Font Info:    ... okay on input line 586.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 586.
-LaTeX Font Info:    ... okay on input line 586.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 586.
-LaTeX Font Info:    ... okay on input line 586.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 586.
-LaTeX Font Info:    ... okay on input line 586.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 586.
-LaTeX Font Info:    ... okay on input line 586.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 586.
-LaTeX Font Info:    ... okay on input line 586.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 586.
-LaTeX Font Info:    ... okay on input line 586.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 587.
+LaTeX Font Info:    ... okay on input line 587.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 587.
+LaTeX Font Info:    ... okay on input line 587.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 587.
+LaTeX Font Info:    ... okay on input line 587.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 587.
+LaTeX Font Info:    ... okay on input line 587.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 587.
+LaTeX Font Info:    ... okay on input line 587.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 587.
+LaTeX Font Info:    ... okay on input line 587.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 587.
+LaTeX Font Info:    ... okay on input line 587.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -878,7 +878,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box45
-Package hyperref Info: Link coloring OFF on input line 586.
+Package hyperref Info: Link coloring OFF on input line 587.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -888,15 +888,15 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count189
 )
-LaTeX Info: Redefining \ref on input line 586.
-LaTeX Info: Redefining \pageref on input line 586.
-LaTeX Info: Redefining \nameref on input line 586.
+LaTeX Info: Redefining \ref on input line 587.
+LaTeX Info: Redefining \pageref on input line 587.
+LaTeX Info: Redefining \nameref on input line 587.
 
-(./A_RevJMLR_HMM.out) (./A_RevJMLR_HMM.out)
+(./C_RevJMLR_HMM.out) (./C_RevJMLR_HMM.out)
 \@outlinefile=\write5
-\openout5 = `A_RevJMLR_HMM.out'.
+\openout5 = `C_RevJMLR_HMM.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 586.
+LaTeX Info: Redefining \microtypecontext on input line 587.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -914,19 +914,15 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 652.
 
-! Undefined control sequence.
-\@maketitle ...p \noindent \@starteditor \@editor 
-                                                  \@endeditor \vskip \afterm...
-l.608 \maketitle
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-[1
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 652.
+ [1
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -934,14 +930,14 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 703.
+Non-PDF special ignored!]
+LaTeX Font Info:    Try loading font information for U+msa on input line 704.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -949,7 +945,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 703.
+LaTeX Font Info:    Try loading font information for U+msb on input line 704.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -957,24 +953,24 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 703.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 704.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-<images/ClassicalAnalysis_3.pdf, id=195, 444.66125pt x 260.975pt>
+<images/ClassicalAnalysis_3.pdf, id=196, 444.66125pt x 260.975pt>
 File: images/ClassicalAnalysis_3.pdf Graphic file (type pdf)
 
 <use images/ClassicalAnalysis_3.pdf>
-Package pdftex.def Info: images/ClassicalAnalysis_3.pdf used on input line 704.
+Package pdftex.def Info: images/ClassicalAnalysis_3.pdf used on input line 705.
 
 (pdftex.def)             Requested size: 195.12767pt x 114.52272pt.
 
-<images/OurResult_2.pdf, id=196, 444.66125pt x 261.97874pt>
+<images/OurResult_2.pdf, id=197, 444.66125pt x 261.97874pt>
 File: images/OurResult_2.pdf Graphic file (type pdf)
 
 <use images/OurResult_2.pdf>
-Package pdftex.def Info: images/OurResult_2.pdf used on input line 705.
+Package pdftex.def Info: images/OurResult_2.pdf used on input line 706.
 (pdftex.def)             Requested size: 195.12767pt x 114.9632pt.
 
 
@@ -984,18 +980,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 1331) has occurred while \output is active []
 
  [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1297) has occurred while \output is active []
 
  [3 <./images/ClassicalAnalysis_3.pdf> <./images/OurResult_2.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-<images/HMM_drawing2.pdf, id=334, 461.725pt x 210.7875pt>
+<images/HMM_drawing2.pdf, id=326, 461.725pt x 210.7875pt>
 File: images/HMM_drawing2.pdf Graphic file (type pdf)
 
 <use images/HMM_drawing2.pdf>
-Package pdftex.def Info: images/HMM_drawing2.pdf used on input line 920.
-(pdftex.def)             Requested size: 230.86194pt x 105.3935pt.
+Package pdftex.def Info: images/HMM_drawing2.pdf used on input line 921.
+(pdftex.def)             Requested size: 281.85034pt x 128.67024pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1006,212 +1002,202 @@ destination with the same identifier (name{equation.3.1}) has been already used
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1460 T
-        he $(L_{\paramobs}, L_{\paramtrans})$-FOS conditions are preciselypdfTe
-X warning (ext4): destination with the same identifier (name{equation.3.2}) has
- been already used, duplicate ignored
+l.1450 A
+        s opposed to gradient descent, the EM updates optimize over the firstpd
+fTeX warning (ext4): destination with the same identifier (name{equation.3.2}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1460 T
-        he $(L_{\paramobs}, L_{\paramtrans})$-FOS conditions are preciselypdfTe
-X warning (ext4): destination with the same identifier (name{equation.3.1}) has
- been already used, duplicate ignored
+l.1450 A
+        s opposed to gradient descent, the EM updates optimize over the firstpd
+fTeX warning (ext4): destination with the same identifier (name{equation.3.1}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1460 T
-        he $(L_{\paramobs}, L_{\paramtrans})$-FOS conditions are preciselypdfTe
-X warning (ext4): destination with the same identifier (name{equation.3.2}) has
- been already used, duplicate ignored
+l.1450 A
+        s opposed to gradient descent, the EM updates optimize over the firstpd
+fTeX warning (ext4): destination with the same identifier (name{equation.3.2}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1460 T
-        he $(L_{\paramobs}, L_{\paramtrans})$-FOS conditions are precisely]
+l.1450 A
+        s opposed to gradient descent, the EM updates optimize over the first]
 [12]pdfTeX warning (ext4): destination with the same identifier (name{equation.
 3.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1606 \end{align}
+l.1591 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.3.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1623 \end{align}
+l.1608 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.3.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1648 \end{align}
+l.1633 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.3.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1659 \end{align}
-                   [13] [14] [15]
-<images/OpStatErr_iteration_tofirst_Paper.pdf, id=506, 637.38126pt x 461.725pt>
+l.1644 \end{align}
+                   [13]
+Underfull \vbox (badness 5036) has occurred while \output is active []
+
+ [14]
+[15]
+<images/OpStatErr_iteration_tofirst_Paper.pdf, id=497, 637.38126pt x 461.725pt>
 File: images/OpStatErr_iteration_tofirst_Paper.pdf Graphic file (type pdf)
 <use images/OpStatErr_iteration_tofirst_Paper.pdf>
 Package pdftex.def Info: images/OpStatErr_iteration_tofirst_Paper.pdf used on i
-nput line 1909.
-(pdftex.def)             Requested size: 286.81891pt x 207.77432pt.
- [16]
-<images/Obserr_iteration_SNR_nopca.pdf, id=519, 637.38126pt x 461.725pt>
+nput line 1894.
+(pdftex.def)             Requested size: 216.81pt x 157.05487pt.
+ [16] [17 <./images/OpStatErr_iteration_tofirst_Paper.pdf>]
+<images/Obserr_iteration_SNR_nopca.pdf, id=542, 637.38126pt x 461.725pt>
 File: images/Obserr_iteration_SNR_nopca.pdf Graphic file (type pdf)
 
 <use images/Obserr_iteration_SNR_nopca.pdf>
 Package pdftex.def Info: images/Obserr_iteration_SNR_nopca.pdf used on input li
-ne 1982.
-(pdftex.def)             Requested size: 286.81891pt x 207.77432pt.
-
-Underfull \vbox (badness 1237) has occurred while \output is active []
-
- [17 <./images/OpStatErr_iteration_tofirst_Paper.pdf>]
-Underfull \vbox (badness 7832) has occurred while \output is active []
-
+ne 1966.
+(pdftex.def)             Requested size: 195.12767pt x 141.3508pt.
  [18 <./images/Obserr_iteration_SNR_nopca.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 2070--2073
+Underfull \hbox (badness 10000) in paragraph at lines 2054--2057
 
  []
 
 
-Overfull \hbox (10.15305pt too wide) in paragraph at lines 2146--2146
-[] 
- []
-
-
-Overfull \hbox (0.65292pt too wide) in paragraph at lines 2156--2156
+Overfull \hbox (10.15305pt too wide) in paragraph at lines 2130--2130
 [] 
  []
 
 [19]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2237
-.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
+Overfull \hbox (0.65292pt too wide) in paragraph at lines 2140--2140
+[] 
+ []
+
+[20]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2237.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2221.
 
- [20] [21]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 2401.
-
+ [21]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 2401.
+(hyperref)                removing `\hbox' on input line 2385.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 2401.
+(hyperref)                removing `\mathsurround' on input line 2385.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\unskip' on input line 2401.
+(hyperref)                removing `\z@' on input line 2385.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@italiccorr' on input line 2401.
+(hyperref)                removing `\unskip' on input line 2385.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@@italiccorr' on input line 2385.
 
 [22]pdfTeX warning (ext4): destination with the same identifier (name{equation.
 5.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2441 \end{align}
+l.2425 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.5.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2451 \end{align}
-                  
+l.2435 \end{align}
+                   [23]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 2522.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 2522.
+(hyperref)                removing `\hbox' on input line 2506.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 2522.
+(hyperref)                removing `\mathsurround' on input line 2506.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\unskip' on input line 2522.
+(hyperref)                removing `\z@' on input line 2506.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@italiccorr' on input line 2522.
+(hyperref)                removing `\unskip' on input line 2506.
 
-[23]
-Overfull \hbox (4.73468pt too wide) in paragraph at lines 2581--2581
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@@italiccorr' on input line 2506.
+
+
+Overfull \hbox (4.73468pt too wide) in paragraph at lines 2565--2565
 [] 
  []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 2608.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 2608.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 2608.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\unskip' on input line 2608.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@italiccorr' on input line 2608.
 
 [24]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 2653.
+(hyperref)                removing `\hbox' on input line 2592.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 2653.
+(hyperref)                removing `\mathsurround' on input line 2592.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 2653.
+(hyperref)                removing `\z@' on input line 2592.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\unskip' on input line 2653.
+(hyperref)                removing `\unskip' on input line 2592.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@italiccorr' on input line 2653.
+(hyperref)                removing `\@@italiccorr' on input line 2592.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\hbox' on input line 2637.
 
- [25]pdfTeX warning (ext4): destination with the same identifier (name{equation
-.5.1}) has been already used, duplicate ignored
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 2637.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 2637.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\unskip' on input line 2637.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@@italiccorr' on input line 2637.
+
+[25]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+5.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2773 \end{align}
+l.2757 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.5.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2790 \end{align}
+l.2774 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.5.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2790 \end{align}
+l.2774 \end{align}
                   
-Underfull \hbox (badness 10000) in paragraph at lines 2814--2818
+Underfull \hbox (badness 10000) in paragraph at lines 2798--2802
 
  []
 
@@ -1219,14 +1205,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2814--2818
 ion.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2884 ...roof of Proposition~\ref{PropExistence}}
+l.2868 ...roof of Proposition~\ref{PropExistence}}
                                                   
-Underfull \hbox (badness 10000) in paragraph at lines 2927--2929
+Underfull \hbox (badness 10000) in paragraph at lines 2911--2913
 
  []
 
 
-Overfull \hbox (34.28691pt too wide) in paragraph at lines 2978--2978
+Overfull \hbox (34.28691pt too wide) in paragraph at lines 2962--2962
 [] 
  []
 
@@ -1234,20 +1220,20 @@ Overfull \hbox (34.28691pt too wide) in paragraph at lines 2978--2978
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3027 ...\ref{cor:simultaneous_normal_lipschitz}}
+l.3011 ...\ref{cor:simultaneous_normal_lipschitz}}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{equation.2.1}) has been already used, dupl
 icate ignored
 <to be read again> 
                    \relax 
-l.3054 \end{align}
+l.3038 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.2.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3054 \end{align}
+l.3038 \end{align}
                   
-Underfull \hbox (badness 10000) in paragraph at lines 3069--3072
+Underfull \hbox (badness 10000) in paragraph at lines 3053--3056
 
  []
 
@@ -1255,19 +1241,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3100 \end{align}
+l.3084 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.2.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3100 \end{align}
+l.3084 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.2.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3100 \end{align}
+l.3084 \end{align}
                   
-Underfull \hbox (badness 10000) in paragraph at lines 3104--3146
+Underfull \hbox (badness 10000) in paragraph at lines 3088--3130
 
  []
 
@@ -1275,34 +1261,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 3104--3146
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3272 ...rollary~\ref{cor:normalsim_samplesplit}}
+l.3256 ...rollary~\ref{cor:normalsim_samplesplit}}
                                                    [30]pdfTeX warning (ext4): d
 estination with the same identifier (name{equation.3.1}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.3293 \end{align}
+l.3277 \end{align}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{equation.3.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3304 \end{align}
+l.3288 \end{align}
                    [31]
-
-! LaTeX Error: \begin{align*} on input line 3355 ended by \end{eqnarray*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3363 \end{eqnarray*}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3415--3420
+Underfull \hbox (badness 10000) in paragraph at lines 3399--3404
 
  []
 
@@ -1310,9 +1282,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3415--3420
 n.3.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3427 ...n{Proof of  Lemma~\ref{lem:second_tech}}
+l.3411 ...n{Proof of  Lemma~\ref{lem:second_tech}}
                                                    [33]
-Overfull \hbox (2.20564pt too wide) in paragraph at lines 3572--3572
+Overfull \hbox (2.20564pt too wide) in paragraph at lines 3556--3556
 [] 
  []
 
@@ -1320,27 +1292,14 @@ Overfull \hbox (2.20564pt too wide) in paragraph at lines 3572--3572
 ection.3.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3730 ...ion{Proof of Lemma~\ref{lem:first_tech}}
+l.3714 ...ion{Proof of Lemma~\ref{lem:first_tech}}
                                                   
-Overfull \hbox (6.36057pt too wide) in paragraph at lines 3840--3840
+Overfull \hbox (6.36057pt too wide) in paragraph at lines 3824--3824
 [] 
  []
 
 [36]
-! Missing delimiter (. inserted).
-<to be read again> 
-                   \mathop 
-l.3843 \big \log
-                 p(X_i | z_i, \theta) \big|+ \nstates \log (\statmin \mixcoe...
-I was expecting to see something like `(' or `\{' or
-`\}' here. If you typed, e.g., `{' instead of `\{', you
-should probably delete the `{' by typing `1' now, so that
-braces don't get unbalanced. Otherwise just proceed.
-Acceptable delimiters are characters whose \delcode is
-nonnegative, or you can use `\delimiter <delimiter code>'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3915--3919
+Underfull \hbox (badness 10000) in paragraph at lines 3884--3888
 
  []
 
@@ -1348,9 +1307,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3915--3919
 ection.3.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4023 \subsection{Proofs of technical lemmas}
+l.3992 \subsection{Proofs of technical lemmas}
                                                [39] [40] [41] [42]
-Underfull \hbox (badness 10000) in paragraph at lines 4296--4303
+Underfull \hbox (badness 10000) in paragraph at lines 4271--4278
 
  []
 
@@ -1358,9 +1317,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{section.4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4345 \section{Mixing related results}
+l.4320 \section{Mixing related results}
                                        
-Overfull \hbox (3.81209pt too wide) in paragraph at lines 4375--4375
+Overfull \hbox (3.81209pt too wide) in paragraph at lines 4350--4350
 [] 
  []
 
@@ -1368,19 +1327,22 @@ Overfull \hbox (3.81209pt too wide) in paragraph at lines 4375--4375
 n.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4417 \subsection{Consequences of mixing}
+l.4392 \subsection{Consequences of mixing}
                                            [44]
-Overfull \hbox (10.7669pt too wide) in paragraph at lines 4483--4483
+Overfull \hbox (10.7669pt too wide) in paragraph at lines 4458--4458
 [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4525--4528
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 4500--4503
 
  []
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 4599--4605
+
+Underfull \vbox (badness 8038) has occurred while \output is active []
+
+ [46]
+Underfull \hbox (badness 10000) in paragraph at lines 4574--4580
 
  []
 
@@ -1388,63 +1350,56 @@ pdfTeX warning (ext4): destination with the same identifier (name{subsection.4.
 2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4611 ...roof of Lemma~\ref{lem:twosided_approx}}
-                                                   [46]
-Underfull \hbox (badness 10000) in paragraph at lines 4631--4642
+l.4586 ...roof of Lemma~\ref{lem:twosided_approx}}
+                                                  
+Underfull \hbox (badness 10000) in paragraph at lines 4606--4617
 
  []
 
-[47]pdfTeX warning (ext4): destination with the same identifier (name{subsectio
+[47]
+Overfull \hbox (6.12917pt too wide) in paragraph at lines 4694--4694
+[] 
+ []
+
+[48]pdfTeX warning (ext4): destination with the same identifier (name{subsectio
 n.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4836 ...{Proof of Lemma~\ref{lem:expfammixing0}}
-                                                   [48]
-Overfull \hbox (13.92636pt too wide) detected at line 4903
-\OML/cmm/m/it/10.95 p\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 z[] \OT1/cmr/m/n/1
-0.95 = 1 \OMS/cmsy/m/n/10.95 j \OML/cmm/m/it/10.95 z[] \OT1/cmr/m/n/10.95 = \OM
-S/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 ; x\OT1/cmr/m/n/10.
-95 ) \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 p\OT1/cmr/m/n/10.95 (\OML/cmm/
-m/it/10.95 z[] \OT1/cmr/m/n/10.95 = 1 \OMS/cmsy/m/n/10.95 j \OML/cmm/m/it/10.95
- z[] \OT1/cmr/m/n/10.95 = 1\OML/cmm/m/it/10.95 ; x\OT1/cmr/m/n/10.95 ) = \OMS/c
-msy/m/n/10.95 ^^@\OML/cmm/m/it/10.95 p\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 z
-[] \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 1 \OMS/cmsy/m
-/n/10.95 j \OML/cmm/m/it/10.95 z[] \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 ^^@
-\OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 ; x\OT1/cmr/m/n/10.95 ) + \OML/cmm/m/it
-/10.95 p\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 z[] \OT1/cmr/m/n/10.95 = \OMS/c
-msy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 1 \OMS/cmsy/m/n/10.95 j \OML/cmm/m/it/10.95
- z[] \OT1/cmr/m/n/10.95 = 1\OML/cmm/m/it/10.95 ; x\OT1/cmr/m/n/10.95 )
+l.4749 ...{Proof of Lemma~\ref{lem:expfammixing0}}
+                                                   [49]
+Overfull \hbox (23.65952pt too wide) in paragraph at lines 4815--4815
+[] 
  []
 
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 4948--4952
+
+Underfull \hbox (badness 10000) in paragraph at lines 4860--4864
 
  []
 
-(./A_RevJMLR_HMM.bbl
+(./C_RevJMLR_HMM.bbl [50]
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [50] [51]) [52]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4962.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4962.
- (./A_RevJMLR_HMM.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4962.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4962.
+ [51] [52]) [53]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4874.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4874.
+ (./C_RevJMLR_HMM.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4874.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4874.
 
-Package rerunfilecheck Info: File `A_RevJMLR_HMM.out' has not changed.
+Package rerunfilecheck Info: File `C_RevJMLR_HMM.out' has not changed.
 (rerunfilecheck)             Checksum: F4FD056BAE8369C2D25504E2286C61BD;2723.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4962.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4874.
  ) 
 Here is how much of TeX's memory you used:
- 22987 strings out of 494968
- 409168 string characters out of 6178965
- 547165 words of memory out of 5000000
- 25405 multiletter control sequences out of 15000+600000
+ 22994 strings out of 494968
+ 409264 string characters out of 6178965
+ 547604 words of memory out of 5000000
+ 25411 multiletter control sequences out of 15000+600000
  19252 words of font info for 131 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 53i,19n,92p,1036b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,19n,92p,1036b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -1464,10 +1419,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on A_RevJMLR_HMM.pdf (52 pages, 873445 bytes).
+Output written on C_RevJMLR_HMM.pdf (53 pages, 882047 bytes).
 PDF statistics:
- 1120 PDF objects out of 1200 (max. 8388607)
- 1000 compressed objects within 10 object streams
- 230 named destinations out of 1000 (max. 500000)
+ 1117 PDF objects out of 1200 (max. 8388607)
+ 996 compressed objects within 10 object streams
+ 231 named destinations out of 1000 (max. 500000)
  22870 words of extra memory for PDF output out of 24883 (max. 10000000)
 
